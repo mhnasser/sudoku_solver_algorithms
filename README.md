@@ -1,6 +1,6 @@
-# Projeto: Implementar diferentes algoritmos para resolver o Sudoku
+# Projeto: Implementação de diferentes algoritmos para resolver o Sudoku
 
-Para esse projeto os algoritmos a ser implementados para resolver o Sudoku são:
+Para esse projeto os algoritmos implementados para resolver o Sudoku são:
 
 - Busca em largura
 - Busca em profundidade
